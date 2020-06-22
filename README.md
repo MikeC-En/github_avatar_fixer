@@ -1,0 +1,2 @@
+# github_avatar_fixer
+生成hosts配置，解决github头像无法显示问题
